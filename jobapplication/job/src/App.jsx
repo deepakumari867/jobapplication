@@ -36,7 +36,7 @@ function App() {
                   My Applications
                 </Link>
 
-                {/* Call-to-Action Button */}
+         
                 <Link to="/">
                   <button className="bg-gradient-to-r from-green-500 to-green-600 text-white px-5 py-2 rounded-lg shadow-lg hover:scale-105 hover:shadow-xl transition-all duration-300">
                     Post a Job
